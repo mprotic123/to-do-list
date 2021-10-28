@@ -27,7 +27,7 @@ Assignment from Microverse where I'm going to develop To-Do list app with add an
 
 To get a local copy up and running follow these simple example steps.
 
-- You can clone this repo by typing git clone `` on your GitBash terminal
+- You can clone this repo by typing git clone `https://github.com/mprotic123/to-do-list.git` on your GitBash terminal
 
 - Type cd `To-Do-list-App` to navigate through project files
 
