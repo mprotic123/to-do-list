@@ -1,6 +1,6 @@
 # Testing To Do list: part 1
 
-In this pair programming project we will build unit test for add and remove functions.
+In this pair programming project we will build unit test for the status and content updates.
 
 ![screenshot](todolist.JPG)
 
