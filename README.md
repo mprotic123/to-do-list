@@ -1,4 +1,4 @@
-# Testing To Do list: part 1
+# Testing To Do list: part 2
 
 In this pair programming project we will build unit test for the status and content updates.
 
