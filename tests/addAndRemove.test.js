@@ -45,3 +45,13 @@ test('test the function trashTask', () => {
   trashTask(0);
   expect(getStorage().length).toBe(0);
 });
+
+test('Test creating the elements "Dom" after adding new tasks', () => {
+    saveStorage([]);
+    addTask(newTodoInput);
+    addTask(newTodoInput);
+    addTask(newTodoInput);
+    const items = Array.from(document.querySelectorAll('.list-item')).length;
+    expect(items).toBe(3);
+  });
+
