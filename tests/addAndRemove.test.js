@@ -34,15 +34,6 @@ describe('Testing the addTask function', () => {
       index: 1,
     }]);
   });
-
-  test('Test creating the elements "Dom" after adding new tasks', () => {
-    saveStorage([]);
-    addTask(newTodoInput);
-    addTask(newTodoInput);
-    addTask(newTodoInput);
-    const items = Array.from(document.querySelectorAll('.list-item')).length;
-    expect(items).toBe(3);
-  });
 });
 
 test('test the function trashTask', () => {
