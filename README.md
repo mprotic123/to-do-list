@@ -1,48 +1,53 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Testing To Do list: part 1
 
-# To-Do-list-App
+In this pair programming project we will build unit test for add and remove functions.
 
+![screenshot](./src/demoiii.PNG)
 
-![screenshot](todolist.JPG)
+ 
 
-Assignment from Microverse where I'm going to develop To-Do list app with add and remove functions.
 ## Live Demo
 
-[Live Demo Link](https://mprotic123.github.io/to-do-list/dist)
-
-## Built With
-
-- Html
-- Css
-- JavaScript
-
-##  Prerequisites
-
-- Visual Studio
+[Live Demo Link](https://mprotic123.github.io/todo-list/)
+ 
+## Built 
+- HTML
+- CSS
+- Javascript
+- Webpack 
+- HTML&CSS Linter
 - Git
-- Html
-- Css
 
-## Getting Started
+## Get Started
 
-To get a local copy up and running follow these simple example steps.
+Please get your browser update.
+To get a local copy up and running follow these simple steps.
 
-- You can clone this repo by typing git clone `https://github.com/mprotic123/to-do-list.git` on your GitBash terminal
+Run the command below from the Terminal:
 
-- Type cd `To-Do-list-App` to navigate through project files
+.  Open your terminal or command line
+.  Run git clone and paste the repository link like this: **git clone -b [branch_name] [repository_link] **
+.  Open the folder with your code editor
+.  Create a branch to work on
+.  Run npm install
+.  Run npm run build
+.  Run npm run start to launch the server.
+.  Run npm run test to run the test cases.
 
-- Run `npm install` from your editor's terminal.
 
-- Run `npm run build` from your editor's terminal.
-
-- Run `npm start` from your editor's terminal to view the project in your browser.
-
-## Author
+## Authors
 
 👤 **Milan Protić**
 
-- GitHub: [@github](https://github.com/mprotic123)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/milan-proti%C4%87-040364213/)
+- Location: Serbia
+- GitHub: [@mprotic123](https://github.com/mprotic123)
+- Twitter: [@mprotic98](https://twitter.com/mprotic98)
+
+👤 **Ellis Ng'ona**
+
+- Location: Zambia
+- GitHub: [@mwanawabangona](https://github.com/mwanawabangona)
+- Twitter: [@Ellis_aah](https://twitter.com/Ellis_aah)
 
 
 ## 🤝 Contributing
@@ -55,7 +60,10 @@ Feel free to check the [issues page](https://github.com/mprotic123/to-do-list/is
 
 Give a ⭐️ if you like this project!
 
+## Acknowledgments
+
+- Thanks to Microverse
+
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-
