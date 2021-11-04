@@ -2,7 +2,7 @@
 
 In this pair programming project we will build unit test for add and remove functions.
 
-![screenshot](./todolist.jpg)
+![screenshot](todolist.jpg)
 
  
 
