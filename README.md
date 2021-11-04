@@ -8,7 +8,7 @@ In this pair programming project we will build unit test for add and remove func
 
 ## Live Demo
 
-[Live Demo Link](https://mprotic123.github.io/todo-list/src)
+[Live Demo Link](https://mprotic123.github.io/to-do-list/src)
  
 ## Built 
 - HTML
